@@ -26,7 +26,7 @@ author:
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is the First Git Page in CSKoon!!
-baseurl: "git-page" # the subpath of your site, e.g. /blog
+baseurl: "/git-page" # the subpath of your site, e.g. /blog
 url: "https://panickery.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
