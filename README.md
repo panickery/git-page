@@ -1,3 +1,6 @@
+# How to Access
+## https://panickery.github.io/git-page/
+
 # Jekyll x Bulma
 ## W.I.P
 
